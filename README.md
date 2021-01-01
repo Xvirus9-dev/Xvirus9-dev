@@ -2,7 +2,7 @@
 
 > Voici quelques informations sur moi:
 
-- 🔭 Je travaille actuellement sur SAOD
+- 🔭 Je travaille actuellement sur SAOD ainsi que Pronote-Bot
 - 🌱 J'apprend le JS
 - 📫 Mon discord pour me contacter: Xvirus9#2946
 
